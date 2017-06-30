@@ -1,4 +1,4 @@
-# Training - Javascript Functions
+``# Training - Javascript Functions
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer. Write the functions assigned below in the file `functions.js`. Use snippets to run and observe the results of your code.
 
@@ -131,7 +131,7 @@ Return c given a and b.
 <summary>Function signature (only look at this after you've thought about what it should look like)</summary>
 
 ```javascript
-function pythagoreanTheorem(a, b) {
+function pyt`hagoreanTheorem(a, b) {
 	// TODO: Place your code here
 }
 
